@@ -7,11 +7,11 @@ header ul li {
 }
 
 .bg-primary {
-    background: #5BBCFF;
+    background: #5E1675;
 }
 
 .bg-secondary {
-    background: #2b2d77;
+    background: #E21818;
 }
 
 .mobile-nav {
@@ -26,7 +26,7 @@ header ul li {
     @apply w-full h-full  ;
 }
 .skills-css{
-   background-color: #CAF4FF;
+   background-color: #FFB6B9;
 }
 
 .btn {
